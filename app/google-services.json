@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236898771690",
+    "firebase_url": "https://partygps-388aa.firebaseio.com",
+    "project_id": "partygps-388aa",
+    "storage_bucket": "partygps-388aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236898771690:android:5c77cdbfc26594ea",
+        "android_client_info": {
+          "package_name": "gunt0023.example.partygps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236898771690-ib7sni3lhrrttb9ktassvclk8495kdcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gunt0023.example.partygps",
+            "certificate_hash": "48b408c1937862739d9ab2b9f702c166aa740e81"
+          }
+        },
+        {
+          "client_id": "236898771690-8ibhij9fea1sr1hjqp65g2eqj4nqq17q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs4bFj5eMhGPBJ7JMD_bKSa1GDTaCWw5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236898771690-8ibhij9fea1sr1hjqp65g2eqj4nqq17q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
