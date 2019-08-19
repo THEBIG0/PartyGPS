@@ -4,4 +4,5 @@
     <string name="title_activity_sign_in">SignInActivity</string>
     <string name="sign_out_button">Sign Out</string>
     <string name="sign_out_button_main">Back</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
